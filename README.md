@@ -1,4 +1,4 @@
-```## Hello my name is Felipe Souza Marra
+## Hello my name is Felipe Souza Marra
 <div>
   <h5>I'm Software Engineer student at Catholic University of Brasilia (UCB)</h5>
 </div>
@@ -48,4 +48,3 @@
 ##
 
   ![Snake animation](https://github.com/RafaelOsiro/rafaelosiro/blob/output/github-contribution-grid-snake.svg)
-```
